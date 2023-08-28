@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Input VCF files directory
-VCF_DIR="/run/media/saadat/A/WT_exomes_analysis/deepVar/variant_calling/deepvariant/"
+VCF_DIR="path/to/vcf/directory"
 
 # Output directory
-OUTPUT_DIR="/run/media/saadat/A/WT_exomes_analysis/Common_var"
+OUTPUT_DIR="path/to/output/directory/"
 
 # Path to gene coordinates BED file
-GENE_BED="/run/media/saadat/A/WT_exomes_analysis/interest_gene_sorted.bed"
+GENE_BED="path/to/bed/file/with/coordenates/of/gene/of/interest"
 
 # Path to VEP executable
 VEP="/path/to/vep"
